@@ -1,31 +1,33 @@
-# 👋 Hi, I'm Azmera Abebe Teshale
+👋 Hi, I’m Azmera Abebe Teshale
+Senior Oracle Database Administrator | IT & Data Systems Specialist
 
-## 💼 Senior Database Administrator
+I am a Senior Database Administrator with 10+ years of experience (since December 2015) in managing and optimizing enterprise database systems in banking and government environments.
 
-🌐 **My Portfolio Website:**
-https://azmeraa.github.io/portfolio/
+I specialize in Oracle Database (12c/19c) and SQL Server, with strong expertise in:
 
----
+Performance tuning and query optimization
+Backup and recovery (RMAN)
+High availability and Data Guard
+Production database support and monitoring
 
-### 🚀 About Me
+I have supported mission-critical banking systems, ensuring high availability, data integrity, security, and system stability.
 
-* 10+ years experience in database administration
-* Expert in SQL Server & Oracle
-* Worked on banking & government systems
+Currently, I am expanding into Data Science and Cloud Database Technologies to align with modern data engineering practices.
 
----
+🧠 What I bring
+Reliable enterprise database operations
+Strong problem-solving in production environments
+Performance optimization of large-scale systems
+Experience in banking-grade systems reliability
+🎯 Career Direction
 
-### 🛠 Skills
+I am focused on growing into advanced roles in:
 
-* SQL Server
-* Oracle
-* Performance Tuning
-* Backup & Recovery
-* High Availability
+Data Engineering
+Cloud Database Architecture
+Data Science Foundations
+📫 Contact
 
----
+Email: azmeraabebe26@gmail.com
 
-### 📫 Contact
-
-* Email:azmeraabebe26@gmail.com
-* Location: Ethiopia
+Location: Ethiopia
